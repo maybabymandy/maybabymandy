@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maybabymandy 
-- 👀 I’m interested in ... learning how to create NFTS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m galaxy wolf and im MaMa wolf
+- 👀 I’m interested in ... learning how to network buy and sell our creations 
+- 🌱 I’m currently learning ... slowly about crypo
+- 💞️ I’m looking to collaborate on ... a secret project 
+- 📫 How to reach me ... @manicmademedoit
 
 <!---
 maybabymandy/maybabymandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
